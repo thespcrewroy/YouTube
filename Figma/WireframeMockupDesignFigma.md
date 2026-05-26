@@ -77,7 +77,7 @@
 - Add a second button for interaction to call or email the service/business
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/features.png" alt="Mobile Page" height="600" width="300" />
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/mobile.png" alt="Mobile Page" height="600" width="300" />
 </p>
 
 ### Navigation
