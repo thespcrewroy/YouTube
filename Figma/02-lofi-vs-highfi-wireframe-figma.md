@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/lowvhigh.png" alt="Low v. High Wireframe" width="800" />
+</p>
+
 ## Lo-Fidelity
 * Really quick to make
 * Tests the mechanics of a website with an audience
