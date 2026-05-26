@@ -1,4 +1,4 @@
-# UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma
+# Freecodecamp UI / UX Design Tutorial: Wireframe, Mockup & Design in Figma
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=c9Wg6Cb_YlU">
