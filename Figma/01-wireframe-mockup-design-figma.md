@@ -9,6 +9,13 @@
     />
   </a>
 
+<h3 align="center">
+  Project:
+  <a href="https://www.figma.com/design/Qix67C8V4ghKkBHk6Y5Ih3/FreeCodeCamp--Wireframe--Mockup---Design-in-Figma?node-id=0-1&t=Rw1c3BADWFYMfXgu-0">
+    Figma Design
+  </a>
+</h3>
+
 
 ## UI Layout (Hi-Fi Wireframe)
 * More professional version of wireframe
