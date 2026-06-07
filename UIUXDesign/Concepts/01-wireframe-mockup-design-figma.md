@@ -44,7 +44,7 @@
 - **Header:** Cntainst navigation information. Create basic representations of the logo and menu
 - **About Us:** image, large title, and descriptions about the website, and button if the user wants to learn more
 - **Testimonials/Sponsors:** title and images of various sponsors
-- **Contact Form:** a heading, couple text boxes, and a button. Include a bit of information underneath about buisiness contacts (phone/email)
+- **Contact Form:** a heading, couple text boxes, and a button. Include some info about buisiness contacts (phone/email)
 - **Footer:** darker color with copyright info
 
 <p align="center">
